@@ -1,0 +1,1 @@
+nohup python  -u monitor.py  >log 2>&1 &
